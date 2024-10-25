@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FOODPANDA-react/static/css/main.1891d50c.css",
+    "main.js": "/FOODPANDA-react/static/js/main.3640eb2f.js",
+    "static/js/453.fb02ed2f.chunk.js": "/FOODPANDA-react/static/js/453.fb02ed2f.chunk.js",
+    "index.html": "/FOODPANDA-react/index.html",
+    "main.1891d50c.css.map": "/FOODPANDA-react/static/css/main.1891d50c.css.map",
+    "main.3640eb2f.js.map": "/FOODPANDA-react/static/js/main.3640eb2f.js.map",
+    "453.fb02ed2f.chunk.js.map": "/FOODPANDA-react/static/js/453.fb02ed2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1891d50c.css",
+    "static/js/main.3640eb2f.js"
+  ]
+}
